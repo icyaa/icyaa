@@ -1,5 +1,5 @@
 <div align=center>
-<Hi 👋, I'm Ayaa</h3>
+<h3>Hi 👋, I'm Ayaa</h3>
 I'm majoring in Informatic Engineering<br>
 I'm interested in web development and software testing.<br>
 </div>
