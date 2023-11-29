@@ -8,14 +8,14 @@ I'm interested in web development and software testing.<br>
 
 <div id="badges" align="center">
   <h3> ✉️ Reach Me on</h3>
+  <a href="mailto:athiyahsetiawan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/icyaa.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/thisathiyah/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-athiyahsetiawan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
