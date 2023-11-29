@@ -1,10 +1,10 @@
 <div align=center>
-<h3>Hi 👋, I'm Ayaa</h3>
+<Hi 👋, I'm Ayaa</h3>
 I'm majoring in Informatic Engineering<br>
 I'm interested in web development and software testing.<br>
 </div>
 
----
+# 
 
 <div id="badges" align="center">
   <h3> ✉️ Reach Me on</h3>
