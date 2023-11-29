@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayaa</h1>
-<h4 align="center">Currently a Informatic Engineering student that has interest in web development and software testing</h4>
-
----
+<div align=center>
+<h3>>Hi 👋, I'm Ayaa</h3>
+I'm majoring in Informatic Engineering<br>
+I'm interested in web development and software testing.<br>
+</div>
 
 <div id="badges" align="center">
+  <h2> 📫 Reach Me on</h2>
   <a href="https://www.instagram.com/icyaa.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" Badge"/>
   </a>
