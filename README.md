@@ -4,14 +4,11 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://github.com/icyaa">
-    <img src="https://img.shields.io/github/followers/icyaa?color=black&label=Follow&logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.instagram.com/icyaa.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" Badge"/>
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/thisathiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thisathiya" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/thisathiyah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/icyaa.a/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
