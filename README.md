@@ -4,6 +4,8 @@ I'm majoring in Informatic Engineering<br>
 I'm interested in web development and software testing.<br>
 </div>
 
+---
+
 <div id="badges" align="center">
   <h3> ✉️ Reach Me on</h3>
   <a href="https://www.instagram.com/icyaa.a/">
@@ -16,6 +18,8 @@ I'm interested in web development and software testing.<br>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
 
 <div align=center> 
   <h3>👩🏻‍💻 Tech Stack and Tools</h3>
